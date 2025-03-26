@@ -1,0 +1,13 @@
+.nav_container {
+  width: 100%;
+  padding: 0px 20px;
+  height: 70px;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid gray;
+  box-shadow: 2px;
+}
+
+.heading {
+  margin-right: auto;
+}
